@@ -1,4 +1,8 @@
 Hello git
  - CLone(sao chep thanh cong)
 ádasdawd
+<<<<<<< HEAD
 Chuyen nhanh
+=======
+Them branch va chuyen nhanh
+>>>>>>> branch_1_rename
